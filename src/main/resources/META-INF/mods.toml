@@ -1,0 +1,13 @@
+modLoader = "javafml"
+loaderVersion = "[40,)"
+license = "MIT"
+
+[[mods]]
+    modId = "dropfullcarts"
+    displayName = "DropFullCarts"
+    description = "A small mod that makes the different cart variants drop themselves instead of breaking in parts"
+    version = "${file.jarVersion}"
+    authors = "altrisi"
+    logoFile = "assets/dropfullcarts/icon.png"
+    itemIcon = "minecraft:minecart"
+    displayTest = "IGNORE_ALL_VERSION"
